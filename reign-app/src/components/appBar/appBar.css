@@ -1,0 +1,18 @@
+.titles-container {
+  height: 35vh;
+  background-color: #333333;
+  padding: 0 0 0 4%;
+  color: white;
+}
+
+.titles-container h1 {
+  margin: 0%;
+  font-size: 6.5rem;
+}
+
+@media (max-width: 600px) {
+  .titles-container h1 {
+    margin: 0%;
+    font-size: 5rem;
+  }
+}
