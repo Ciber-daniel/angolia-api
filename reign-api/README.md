@@ -2,6 +2,12 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## Pre required
+
+-NodeJS
+-Npm
+-MongoDB
+
 ## Installation
 
 ```env
@@ -28,12 +34,15 @@ $ npm run start:prod
 # Test
 
 # unit tests
+
 $ npm run test
 
 # e2e tests
+
 $ npm run test:e2e
 
 # test coverage
+
 $ npm run test:cov
 
 ## Support
